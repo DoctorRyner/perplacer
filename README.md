@@ -2,4 +2,4 @@
 
 (Still just a template)
 
-An utility for text replacement
+An perl6 utility for text replacement
